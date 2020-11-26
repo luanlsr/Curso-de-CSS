@@ -1,0 +1,8 @@
+.noticia:target{
+    background-color: red;
+    padding: 10px;
+}
+#noticia1:target{
+    background-color: green;
+    padding: 10px;
+}

@@ -1,0 +1,22 @@
+*{box-sizing: border-box;}
+#conteudo{
+    background-color: red;
+    width: 500px;
+    height: 100px;
+    overflow: auto;
+}
+#conteudo p{
+    opacity: 30%;
+    color: white;
+}
+
+.cont{
+    width:200;
+    border-radius: 90px 90px 90px 90px;
+    background-color: blue;
+    padding: 20px;
+    margin: 20px 0 0 0;
+    color: #fff;
+    
+
+}

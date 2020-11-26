@@ -1,0 +1,9 @@
+*{font-size: 100%;}
+/* 1rem ou em = 16px */
+p{
+    font-family: Arial, Haettenschweiler, 'Arial Narrow Bold', sans-serif, 'Times New Roman', Times, serif;
+    text-align: justify;
+    font-weight: bold ;
+    font-style: italic;
+    font-size: 1.5rem;
+}

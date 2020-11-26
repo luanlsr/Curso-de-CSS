@@ -1,0 +1,33 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+#exemplo {
+  border: dotted red 5px;
+  border-radius: 20px;
+  padding: 5px;
+}
+#exemplo2 {
+  border: dashed green 5px;
+  border-radius: 20px;
+  padding: 5px;
+}
+#exemplo3 {
+  border: double rebeccapurple 5px;
+  border-radius: 20px;
+  padding: 5px;
+}
+#exemplo4 {
+  border: groove yellow 5px;
+  border-radius: 20px;
+  padding: 5px;
+}
+#exemplo5 {
+  border: solid aqua 5px;
+  padding: 5px;
+}
+#exemplo6 {
+  border: ridge rgb(100, 226, 142) 5px;
+  padding: 5px;
+}

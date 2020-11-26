@@ -1,0 +1,15 @@
+img{
+    margin: 40px 0 0 60px;
+    filter: 
+    blur(0px) /*desfoque*/
+    brightness(100%) /*brilho*/
+    contrast(100%) /*contraste*/
+    grayscale(1%)/*tons de cinza*/
+    opacity(90%) /*transparência*/
+    saturate(80%)/*saturação*/
+    sepia(3%)
+    hue-rotate(0deg)
+    drop-shadow(10px 10px 10px #000);
+
+
+}

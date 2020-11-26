@@ -1,0 +1,5 @@
+#color{
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(45deg,rgba(233, 11, 11, 0.3),blue );
+}

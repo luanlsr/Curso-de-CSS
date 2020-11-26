@@ -1,0 +1,15 @@
+#conteudo{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+
+}
+#conteudo:hover{
+    background-color: green;
+    /* transition-property: background;
+    transition-duration: 2s;
+    transition-timing-function: ease;
+    transition-delay: 0.2s; */
+    transition: background 2s ease 0.2s;
+}

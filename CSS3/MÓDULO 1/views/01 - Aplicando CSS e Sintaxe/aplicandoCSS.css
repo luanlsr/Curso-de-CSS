@@ -1,0 +1,35 @@
+/* seletor universal */
+*{margin:0; padding: 0; }
+
+/* seletor tag */
+
+
+h1{background-color:aqua;
+    width: 200px;
+    text-align:center;
+    } 
+p{
+    background-color:black;
+    color:white;
+    width: 200px;
+}
+
+/* seletor atributo 
+class: pode ser atribuído a vários elementos
+.seletor
+
+id: podeser atribuído a apenas um único elemento
+#seletor*/
+
+
+.texto {
+    width:250px;
+    background-color:#ccc;
+    height: 45px;
+    
+    
+}
+#Eemail{
+
+    height: 45px;
+}
